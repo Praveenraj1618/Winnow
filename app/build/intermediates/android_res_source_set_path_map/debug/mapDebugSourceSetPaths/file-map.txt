@@ -1,0 +1,8 @@
+app.winnow.gallery.app-pngs-0 D:\UserData\Desktop\Winnow\app\build\generated\res\pngs\debug
+app.winnow.gallery.app-updated_navigation_xml-1 D:\UserData\Desktop\Winnow\app\build\generated\updated_navigation_xml\debug
+app.winnow.gallery.app-packageDebugResources-2 D:\UserData\Desktop\Winnow\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+app.winnow.gallery.app-packageDebugResources-3 D:\UserData\Desktop\Winnow\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+app.winnow.gallery.app-debug-4 D:\UserData\Desktop\Winnow\app\build\intermediates\merged_res\debug\mergeDebugResources
+app.winnow.gallery.app-debug-5 D:\UserData\Desktop\Winnow\app\src\debug\res
+app.winnow.gallery.app-main-6 D:\UserData\Desktop\Winnow\app\src\main\res
+gradleHome-0 C:\Users\Praveen Raj\.gradle

@@ -1,0 +1,7 @@
+R_DEF: Internal format may change without notice
+local
+color stage
+drawable ic_launcher
+font bricolage
+font instrument
+style Theme.Winnow

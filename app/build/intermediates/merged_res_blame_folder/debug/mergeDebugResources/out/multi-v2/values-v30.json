@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "app.winnow.gallery.app-mergeDebugResources-38:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Praveen Raj\\.gradle\\caches\\9.6.0\\transforms\\a3e40301b38d8725335bfeb600096b8b\\transformed\\material3\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+app.winnow.gallery
+color stage
+drawable ic_launcher
+font bricolage
+font instrument
+style Theme_Winnow

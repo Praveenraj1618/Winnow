@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.winnow.gallery.test" >
+
+    <uses-sdk
+        android:minSdkVersion="30"
+        android:targetSdkVersion="35" />
+
+    <instrumentation
+        android:name="androidx.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for app.winnow.gallery"
+        android:targetPackage="app.winnow.gallery" />
+
+    <application
+        android:debuggable="true"
+        android:extractNativeLibs="false" />
+
+</manifest>

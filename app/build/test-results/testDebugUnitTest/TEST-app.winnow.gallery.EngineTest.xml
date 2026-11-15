@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.winnow.gallery.EngineTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-11-15T19:46:40.744Z" hostname="DESKTOP-EHS87ME" time="0.109">
+  <properties/>
+  <testcase name="favouritesAreProtected" classname="app.winnow.gallery.EngineTest" time="0.048"/>
+  <testcase name="learningMovesTowardYourChoice" classname="app.winnow.gallery.EngineTest" time="0.007"/>
+  <testcase name="switchedOffCategoriesStaySilent" classname="app.winnow.gallery.EngineTest" time="0.001"/>
+  <testcase name="balanceChoosesTheJudge" classname="app.winnow.gallery.EngineTest" time="0.001"/>
+  <testcase name="pixelsMeasureFocusAndSimilarity" classname="app.winnow.gallery.EngineTest" time="0.028"/>
+  <testcase name="clutterCardsAndPosterRescue" classname="app.winnow.gallery.EngineTest" time="0.01"/>
+  <testcase name="backdropWinsAPlaceWhenLenient" classname="app.winnow.gallery.EngineTest" time="0.003"/>
+  <testcase name="groupsLookAlikesOnly" classname="app.winnow.gallery.EngineTest" time="0.001"/>
+  <testcase name="bothJudgesKeepTheirPick" classname="app.winnow.gallery.EngineTest" time="0.002"/>
+  <testcase name="spaceSaverKeepsOne" classname="app.winnow.gallery.EngineTest" time="0.001"/>
+  <system-out><![CDATA[after learning shift=0.22708432 craft=[0.9156498, 0.779006, 0.4156498, 0.3, 0.3, 0.2, -0.10130556] keep=[2]
+[BLURRY:[50, 51] keep=[51], SCREENS:[52] keep=[], DOCS:[53] keep=[]]
+lenient keep={1=[Best technical shot, Best light], 2=[Most postable, Best face, left, Best face, right, Best group shot, Best moment], 3=[Best backdrop]}
+balanced keep={1=[Best technical shot, Best light], 2=[Best face, left, Best face, right, Best group shot, Best moment], 3=[Best backdrop]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

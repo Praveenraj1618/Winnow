@@ -1,0 +1,310 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="app.winnow.gallery" >
+4
+5    <uses-sdk
+5-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:6:5-8:41
+6        android:minSdkVersion="30"
+6-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:7:9-35
+7        android:targetSdkVersion="35" />
+7-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:8:9-38
+8
+9    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+9-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:10:5-76
+9-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:10:22-73
+10    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+10-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:11:5-75
+10-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:11:22-72
+11    <uses-permission android:name="android.permission.READ_MEDIA_VISUAL_USER_SELECTED" />
+11-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:12:5-90
+11-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:12:22-87
+12    <uses-permission
+12-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:13:5-15:38
+13        android:name="android.permission.READ_EXTERNAL_STORAGE"
+13-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:14:9-64
+14        android:maxSdkVersion="32" />
+14-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:15:9-35
+15    <uses-permission android:name="android.permission.REORDER_TASKS" />
+15-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:24:5-72
+15-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:24:22-69
+16
+17    <permission
+17-->[androidx.core:core:1.19.1] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\b3e5db5d73258be1c16472fd73025298\transformed\core-1.19.1\AndroidManifest.xml:22:5-24:47
+18        android:name="app.winnow.gallery.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+18-->[androidx.core:core:1.19.1] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\b3e5db5d73258be1c16472fd73025298\transformed\core-1.19.1\AndroidManifest.xml:23:9-81
+19        android:protectionLevel="signature" />
+19-->[androidx.core:core:1.19.1] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\b3e5db5d73258be1c16472fd73025298\transformed\core-1.19.1\AndroidManifest.xml:24:9-44
+20
+21    <uses-permission android:name="app.winnow.gallery.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+21-->[androidx.core:core:1.19.1] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\b3e5db5d73258be1c16472fd73025298\transformed\core-1.19.1\AndroidManifest.xml:26:5-97
+21-->[androidx.core:core:1.19.1] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\b3e5db5d73258be1c16472fd73025298\transformed\core-1.19.1\AndroidManifest.xml:26:22-94
+22
+23    <queries>
+23-->[androidx.test:runner:1.5.2] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\1766cf72a6255abfc9d27b07905c62cd\transformed\runner-1.5.2\AndroidManifest.xml:24:5-28:15
+24        <package android:name="androidx.test.orchestrator" />
+24-->[androidx.test:runner:1.5.2] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\1766cf72a6255abfc9d27b07905c62cd\transformed\runner-1.5.2\AndroidManifest.xml:25:9-62
+24-->[androidx.test:runner:1.5.2] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\1766cf72a6255abfc9d27b07905c62cd\transformed\runner-1.5.2\AndroidManifest.xml:25:18-59
+25        <package android:name="androidx.test.services" />
+25-->[androidx.test:runner:1.5.2] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\1766cf72a6255abfc9d27b07905c62cd\transformed\runner-1.5.2\AndroidManifest.xml:26:9-58
+25-->[androidx.test:runner:1.5.2] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\1766cf72a6255abfc9d27b07905c62cd\transformed\runner-1.5.2\AndroidManifest.xml:26:18-55
+26        <package android:name="com.google.android.apps.common.testing.services" />
+26-->[androidx.test:runner:1.5.2] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\1766cf72a6255abfc9d27b07905c62cd\transformed\runner-1.5.2\AndroidManifest.xml:27:9-83
+26-->[androidx.test:runner:1.5.2] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\1766cf72a6255abfc9d27b07905c62cd\transformed\runner-1.5.2\AndroidManifest.xml:27:18-80
+27    </queries>
+28
+29    <application
+29-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:27:5-55:19
+30        android:allowBackup="false"
+30-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:28:9-36
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.19.1] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\b3e5db5d73258be1c16472fd73025298\transformed\core-1.19.1\AndroidManifest.xml:28:18-86
+32        android:debuggable="true"
+33        android:icon="@drawable/ic_launcher"
+33-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:29:9-45
+34        android:label="Winnow"
+34-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:30:9-31
+35        android:largeHeap="true"
+35-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:31:9-33
+36        android:supportsRtl="true"
+36-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:32:9-35
+37        android:theme="@style/Theme.Winnow" >
+37-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:33:9-44
+38        <activity
+38-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:43:9-54:20
+39            android:name="app.winnow.gallery.MainActivity"
+39-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:44:13-59
+40            android:exported="true"
+40-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:45:13-36
+41            android:screenOrientation="portrait"
+41-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:46:13-49
+42            android:windowSoftInputMode="adjustResize" >
+42-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:47:13-55
+43            <intent-filter>
+43-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:49:13-53:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:50:17-69
+44-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:50:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:52:17-77
+46-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:52:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <service
+50-->[com.google.mlkit:segmentation-selfie:16.0.0-beta6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4892f2b1d19e3c47da792fb5e5c32b6a\transformed\segmentation-selfie-16.0.0-beta6\AndroidManifest.xml:9:9-15:19
+51            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+51-->[com.google.mlkit:segmentation-selfie:16.0.0-beta6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4892f2b1d19e3c47da792fb5e5c32b6a\transformed\segmentation-selfie-16.0.0-beta6\AndroidManifest.xml:10:13-91
+52            android:directBootAware="true"
+52-->[com.google.mlkit:common:18.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\aecb7a89f8cce60db910c9c616b91919\transformed\common-18.11.0\AndroidManifest.xml:17:13-43
+53            android:exported="false" >
+53-->[com.google.mlkit:segmentation-selfie:16.0.0-beta6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4892f2b1d19e3c47da792fb5e5c32b6a\transformed\segmentation-selfie-16.0.0-beta6\AndroidManifest.xml:11:13-37
+54            <meta-data
+54-->[com.google.mlkit:segmentation-selfie:16.0.0-beta6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4892f2b1d19e3c47da792fb5e5c32b6a\transformed\segmentation-selfie-16.0.0-beta6\AndroidManifest.xml:12:13-14:85
+55                android:name="com.google.firebase.components:com.google.mlkit.vision.segmentation.internal.SegmentationRegistrar"
+55-->[com.google.mlkit:segmentation-selfie:16.0.0-beta6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4892f2b1d19e3c47da792fb5e5c32b6a\transformed\segmentation-selfie-16.0.0-beta6\AndroidManifest.xml:13:17-130
+56                android:value="com.google.firebase.components.ComponentRegistrar" />
+56-->[com.google.mlkit:segmentation-selfie:16.0.0-beta6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4892f2b1d19e3c47da792fb5e5c32b6a\transformed\segmentation-selfie-16.0.0-beta6\AndroidManifest.xml:14:17-82
+57            <meta-data
+57-->[com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\91074fd0f54ea23a223321621380507a\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:12:13-14:85
+58                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+58-->[com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\91074fd0f54ea23a223321621380507a\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:13:17-114
+59                android:value="com.google.firebase.components.ComponentRegistrar" />
+59-->[com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\91074fd0f54ea23a223321621380507a\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:14:17-82
+60            <meta-data
+60-->[com.google.mlkit:vision-common:17.3.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\f91f30231e3b426ed6b1f1c61c0d1fe0\transformed\vision-common-17.3.0\AndroidManifest.xml:12:13-14:85
+61                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+61-->[com.google.mlkit:vision-common:17.3.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\f91f30231e3b426ed6b1f1c61c0d1fe0\transformed\vision-common-17.3.0\AndroidManifest.xml:13:17-124
+62                android:value="com.google.firebase.components.ComponentRegistrar" />
+62-->[com.google.mlkit:vision-common:17.3.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\f91f30231e3b426ed6b1f1c61c0d1fe0\transformed\vision-common-17.3.0\AndroidManifest.xml:14:17-82
+63            <meta-data
+63-->[com.google.mlkit:common:18.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\aecb7a89f8cce60db910c9c616b91919\transformed\common-18.11.0\AndroidManifest.xml:20:13-22:85
+64                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+64-->[com.google.mlkit:common:18.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\aecb7a89f8cce60db910c9c616b91919\transformed\common-18.11.0\AndroidManifest.xml:21:17-120
+65                android:value="com.google.firebase.components.ComponentRegistrar" />
+65-->[com.google.mlkit:common:18.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\aecb7a89f8cce60db910c9c616b91919\transformed\common-18.11.0\AndroidManifest.xml:22:17-82
+66        </service>
+67
+68        <provider
+68-->[com.google.mlkit:common:18.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\aecb7a89f8cce60db910c9c616b91919\transformed\common-18.11.0\AndroidManifest.xml:9:9-13:38
+69            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+69-->[com.google.mlkit:common:18.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\aecb7a89f8cce60db910c9c616b91919\transformed\common-18.11.0\AndroidManifest.xml:10:13-78
+70            android:authorities="app.winnow.gallery.mlkitinitprovider"
+70-->[com.google.mlkit:common:18.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\aecb7a89f8cce60db910c9c616b91919\transformed\common-18.11.0\AndroidManifest.xml:11:13-69
+71            android:exported="false"
+71-->[com.google.mlkit:common:18.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\aecb7a89f8cce60db910c9c616b91919\transformed\common-18.11.0\AndroidManifest.xml:12:13-37
+72            android:initOrder="99" />
+72-->[com.google.mlkit:common:18.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\aecb7a89f8cce60db910c9c616b91919\transformed\common-18.11.0\AndroidManifest.xml:13:13-35
+73
+74        <activity
+74-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\2c577bf3327596df95ee48251e2275ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+75            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+75-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\2c577bf3327596df95ee48251e2275ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+76            android:exported="false"
+76-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\2c577bf3327596df95ee48251e2275ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+77-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\2c577bf3327596df95ee48251e2275ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+78
+79        <meta-data
+79-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\6fb1391e47c58fac20b6a92ba6edf973\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+80            android:name="com.google.android.gms.version"
+80-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\6fb1391e47c58fac20b6a92ba6edf973\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+81            android:value="@integer/google_play_services_version" />
+81-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\6fb1391e47c58fac20b6a92ba6edf973\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+82
+83        <activity
+83-->[io.github.takahirom.roborazzi:roborazzi:1.79.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\96ba46ce3369e7d715f3f72ef0b6a018\transformed\roborazzi-1.79.0\AndroidManifest.xml:8:9-10:64
+84            android:name="com.github.takahirom.roborazzi.RoborazziTransparentActivity"
+84-->[io.github.takahirom.roborazzi:roborazzi:1.79.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\96ba46ce3369e7d715f3f72ef0b6a018\transformed\roborazzi-1.79.0\AndroidManifest.xml:9:13-87
+85            android:theme="@style/RoborazziTransparentTheme" />
+85-->[io.github.takahirom.roborazzi:roborazzi:1.79.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\96ba46ce3369e7d715f3f72ef0b6a018\transformed\roborazzi-1.79.0\AndroidManifest.xml:10:13-61
+86        <activity android:name="com.github.takahirom.roborazzi.RoborazziActivity" />
+86-->[io.github.takahirom.roborazzi:roborazzi:1.79.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\96ba46ce3369e7d715f3f72ef0b6a018\transformed\roborazzi-1.79.0\AndroidManifest.xml:11:9-85
+86-->[io.github.takahirom.roborazzi:roborazzi:1.79.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\96ba46ce3369e7d715f3f72ef0b6a018\transformed\roborazzi-1.79.0\AndroidManifest.xml:11:19-82
+87        <activity
+87-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:27:9-34:20
+88            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+88-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:28:13-99
+89            android:exported="true"
+89-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:29:13-36
+90            android:theme="@style/WhiteBackgroundTheme" >
+90-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:30:13-56
+91            <intent-filter android:priority="-100" >
+91-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:31:13-33:29
+91-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:31:28-51
+92                <category android:name="android.intent.category.LAUNCHER" />
+92-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:52:17-77
+92-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:52:27-74
+93            </intent-filter>
+94        </activity>
+95        <activity
+95-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:35:9-42:20
+96            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+96-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:36:13-95
+97            android:exported="true"
+97-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:37:13-36
+98            android:theme="@style/WhiteBackgroundTheme" >
+98-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:38:13-56
+99            <intent-filter android:priority="-100" >
+99-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:31:13-33:29
+99-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:31:28-51
+100                <category android:name="android.intent.category.LAUNCHER" />
+100-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:52:17-77
+100-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:52:27-74
+101            </intent-filter>
+102        </activity>
+103        <activity
+103-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:43:9-50:20
+104            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+104-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:44:13-103
+105            android:exported="true"
+105-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:45:13-36
+106            android:theme="@style/WhiteBackgroundDialogTheme" >
+106-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:46:13-62
+107            <intent-filter android:priority="-100" >
+107-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:31:13-33:29
+107-->[androidx.test:core:1.7.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\dbb016901eb5b9ddb143684d6589cebe\transformed\core-1.7.0\AndroidManifest.xml:31:28-51
+108                <category android:name="android.intent.category.LAUNCHER" />
+108-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:52:17-77
+108-->D:\UserData\Desktop\Winnow\app\build\intermediates\tmp\manifest\test\debug\tempFile2ProcessTestManifest8172056982637056746.xml:52:27-74
+109            </intent-filter>
+110        </activity>
+111
+112        <uses-library
+112-->[androidx.window:window:1.5.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\f16e849d8e51cd2cee11b79ab3739e07\transformed\window-1.5.0\AndroidManifest.xml:23:9-25:40
+113            android:name="androidx.window.extensions"
+113-->[androidx.window:window:1.5.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\f16e849d8e51cd2cee11b79ab3739e07\transformed\window-1.5.0\AndroidManifest.xml:24:13-54
+114            android:required="false" />
+114-->[androidx.window:window:1.5.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\f16e849d8e51cd2cee11b79ab3739e07\transformed\window-1.5.0\AndroidManifest.xml:25:13-37
+115        <uses-library
+115-->[androidx.window:window:1.5.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\f16e849d8e51cd2cee11b79ab3739e07\transformed\window-1.5.0\AndroidManifest.xml:26:9-28:40
+116            android:name="androidx.window.sidecar"
+116-->[androidx.window:window:1.5.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\f16e849d8e51cd2cee11b79ab3739e07\transformed\window-1.5.0\AndroidManifest.xml:27:13-51
+117            android:required="false" />
+117-->[androidx.window:window:1.5.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\f16e849d8e51cd2cee11b79ab3739e07\transformed\window-1.5.0\AndroidManifest.xml:28:13-37
+118
+119        <provider
+119-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\e8f0d22609a90309023e6a3c3cde5f76\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+120            android:name="androidx.startup.InitializationProvider"
+120-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\e8f0d22609a90309023e6a3c3cde5f76\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+121            android:authorities="app.winnow.gallery.androidx-startup"
+121-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\e8f0d22609a90309023e6a3c3cde5f76\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+122            android:exported="false" >
+122-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\e8f0d22609a90309023e6a3c3cde5f76\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+123            <meta-data
+123-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\e8f0d22609a90309023e6a3c3cde5f76\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+124                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+124-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\e8f0d22609a90309023e6a3c3cde5f76\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+125                android:value="androidx.startup" />
+125-->[androidx.emoji2:emoji2:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\e8f0d22609a90309023e6a3c3cde5f76\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+126            <meta-data
+126-->[androidx.lifecycle:lifecycle-process:2.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\99114fb164290b7e53e401580c5d5b98\transformed\lifecycle-process-2.11.0\AndroidManifest.xml:29:13-31:52
+127                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+127-->[androidx.lifecycle:lifecycle-process:2.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\99114fb164290b7e53e401580c5d5b98\transformed\lifecycle-process-2.11.0\AndroidManifest.xml:30:17-78
+128                android:value="androidx.startup" />
+128-->[androidx.lifecycle:lifecycle-process:2.11.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\99114fb164290b7e53e401580c5d5b98\transformed\lifecycle-process-2.11.0\AndroidManifest.xml:31:17-49
+129            <meta-data
+129-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+130                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+130-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+131                android:value="androidx.startup" />
+131-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+132        </provider>
+133
+134        <receiver
+134-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+135            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+135-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+136            android:directBootAware="false"
+136-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+137            android:enabled="true"
+137-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+138            android:exported="true"
+138-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+139            android:permission="android.permission.DUMP" >
+139-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+140            <intent-filter>
+140-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+141                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+141-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+141-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+142            </intent-filter>
+143            <intent-filter>
+143-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+144                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+144-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+144-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+145            </intent-filter>
+146            <intent-filter>
+146-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+147                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+147-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+147-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+148            </intent-filter>
+149            <intent-filter>
+149-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+150                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+150-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+150-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\4c39d5e50b0d080b8565aa6d9038c541\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+151            </intent-filter>
+152        </receiver>
+153
+154        <service
+154-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\3770edf356f016849ae8c6a8690b89de\transformed\transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+155            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+155-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\3770edf356f016849ae8c6a8690b89de\transformed\transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+156            android:exported="false"
+156-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\3770edf356f016849ae8c6a8690b89de\transformed\transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+157            android:permission="android.permission.BIND_JOB_SERVICE" >
+157-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\3770edf356f016849ae8c6a8690b89de\transformed\transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+158        </service>
+159
+160        <receiver
+160-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\3770edf356f016849ae8c6a8690b89de\transformed\transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+161            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+161-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\3770edf356f016849ae8c6a8690b89de\transformed\transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+162            android:exported="false" />
+162-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Praveen Raj\.gradle\caches\9.6.0\transforms\3770edf356f016849ae8c6a8690b89de\transformed\transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+163    </application>
+164
+165</manifest>

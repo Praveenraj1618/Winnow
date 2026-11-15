@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.winnow.gallery.ScreensTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-11-15T19:46:41.062Z" hostname="DESKTOP-EHS87ME" time="42.392">
+  <properties/>
+  <testcase name="renderEveryScreen" classname="app.winnow.gallery.ScreensTest" time="26.666"/>
+  <system-out><![CDATA[PLAN cards=[SET:4 keep=3, SET:4 keep=3, SET:4 keep=3, SET:4 keep=3, SCREENS:3 keep=0, VIDEOS:1 keep=1]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

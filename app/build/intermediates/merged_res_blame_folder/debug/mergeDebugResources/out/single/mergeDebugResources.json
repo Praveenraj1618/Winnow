@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "app.winnow.gallery.app-debug-40:/drawable_ic_launcher.xml.flat",
+        "source": "app.winnow.gallery.app-main-42:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "app.winnow.gallery.app-debug-40:/font_instrument.ttf.flat",
+        "source": "app.winnow.gallery.app-main-42:/font/instrument.ttf"
+    },
+    {
+        "merged": "app.winnow.gallery.app-debug-40:/font_bricolage.ttf.flat",
+        "source": "app.winnow.gallery.app-main-42:/font/bricolage.ttf"
+    }
+]
